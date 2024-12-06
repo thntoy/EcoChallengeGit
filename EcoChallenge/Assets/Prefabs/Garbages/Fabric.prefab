@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Fabric
-  matchingBinType: 1
+  MatchingBinType: 1
 --- !u!95 &3385760639033551155
 Animator:
   serializedVersion: 5

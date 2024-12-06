@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Glass
-  matchingBinType: 1
+  MatchingBinType: 1
 --- !u!95 &5275559596553908843
 Animator:
   serializedVersion: 5

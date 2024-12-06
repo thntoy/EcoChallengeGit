@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Plaster
-  matchingBinType: 3
+  MatchingBinType: 3
 --- !u!95 &6511022089734162915
 Animator:
   serializedVersion: 5

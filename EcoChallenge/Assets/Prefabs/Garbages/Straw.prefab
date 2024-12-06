@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Straw
-  matchingBinType: 1
+  MatchingBinType: 1
 --- !u!95 &-1696688734384870675
 Animator:
   serializedVersion: 5

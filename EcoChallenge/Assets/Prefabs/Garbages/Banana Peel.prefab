@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Banana Peel
-  matchingBinType: 2
+  MatchingBinType: 2
 --- !u!95 &1290813426645496873
 Animator:
   serializedVersion: 5

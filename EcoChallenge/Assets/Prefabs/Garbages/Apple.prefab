@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Apple
-  matchingBinType: 2
+  MatchingBinType: 2
 --- !u!95 &-2081977526356077032
 Animator:
   serializedVersion: 5

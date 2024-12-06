@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Paper
-  matchingBinType: 1
+  MatchingBinType: 1
 --- !u!95 &-804020486978637822
 Animator:
   serializedVersion: 5

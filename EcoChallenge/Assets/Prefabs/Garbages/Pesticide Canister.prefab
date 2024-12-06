@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Pesticide Canister
-  matchingBinType: 3
+  MatchingBinType: 3
 --- !u!95 &-3717995009352194687
 Animator:
   serializedVersion: 5

@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Mask
-  matchingBinType: 3
+  MatchingBinType: 3
 --- !u!95 &3267282748546933709
 Animator:
   serializedVersion: 5

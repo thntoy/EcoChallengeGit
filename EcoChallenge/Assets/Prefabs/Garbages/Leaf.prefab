@@ -100,7 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Leaf
-  matchingBinType: 2
+  MatchingBinType: 2
 --- !u!95 &3893824405252626344
 Animator:
   serializedVersion: 5

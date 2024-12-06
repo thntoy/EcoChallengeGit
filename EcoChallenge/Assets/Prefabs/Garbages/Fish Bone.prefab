@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Fish Bone
-  matchingBinType: 2
+  MatchingBinType: 2
 --- !u!95 &220159569312686028
 Animator:
   serializedVersion: 5

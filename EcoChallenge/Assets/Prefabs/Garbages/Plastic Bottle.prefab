@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Plastic Bottle
-  matchingBinType: 1
+  MatchingBinType: 1
 --- !u!95 &-2808390857057662
 Animator:
   serializedVersion: 5

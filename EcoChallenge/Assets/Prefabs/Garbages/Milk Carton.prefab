@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Milk Carton
-  matchingBinType: 1
+  MatchingBinType: 1
 --- !u!95 &5957807404988167366
 Animator:
   serializedVersion: 5

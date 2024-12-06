@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Noodle
-  matchingBinType: 0
+  MatchingBinType: 0
 --- !u!95 &-4722861851427081393
 Animator:
   serializedVersion: 5

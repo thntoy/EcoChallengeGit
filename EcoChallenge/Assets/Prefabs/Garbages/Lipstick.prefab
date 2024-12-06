@@ -145,7 +145,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ItemName: Lipstick
-  matchingBinType: 3
+  MatchingBinType: 3
 --- !u!95 &-4697061854625248175
 Animator:
   serializedVersion: 5
