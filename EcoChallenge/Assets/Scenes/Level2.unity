@@ -4567,8 +4567,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7bf4f5719d2d5f54d8c45ff8b0960ecb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 357625969}
-  smoothSpeed: 0.125
+  _target: {fileID: 357625969}
+  _smoothSpeed: 0.125
   _minClampX: -7
   _maxClampX: 7
 --- !u!114 &1353223789
